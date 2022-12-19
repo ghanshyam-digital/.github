@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghanshyam-digital&label=Profile%20views&color=0e75b6&style=flat" alt="ghanshyam-digital" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://ghanshyamdigital.com/wp-content/uploads/2021/05/logo.png" alt="ghanshyam-digital" /></a> </p>
 
-- 📫 How to reach me **contact@ghanshyamdigital.com**
+- 📫 How to reach us **contact@ghanshyamdigital.com**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
