@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are Ghanshyam Digital LLP</h1>
+<h1 align="center">Hi 👋, We are Ghanshyam Digital</h1>
 <h3 align="center">A Software Company</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghanshyam-digital&label=Profile%20views&color=0e75b6&style=flat" alt="ghanshyam-digital" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://ghanshyamdigital.com/wp-content/uploads/2021/05/logo.png" alt="ghanshyam-digital" /></a> </p>
